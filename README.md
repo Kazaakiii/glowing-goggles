@@ -9,6 +9,7 @@ Five beginner-friendly Python projects, arranged from simple decision-making to 
 3. `03_atm_simulator` - state changes, authentication, and transactions
 4. `04_tic_tac_toe` - board modeling, turn-taking, and win detection
 5. `05_maze_solver` - breadth-first search and path reconstruction
+6. `06_todo_list` - task management, persistence, and menu-driven CRUD
 
 ## Run a project
 
